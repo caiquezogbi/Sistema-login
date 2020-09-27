@@ -46,6 +46,10 @@ session_start();
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
+
+
+
+			
 				<form class="login100-form validate-form" action="login.php" method="POST">
 					<span class="login100-form-title p-b-26">
 						BEM-VINDO
@@ -95,7 +99,7 @@ session_start();
 							Não tenho uma conta?
 						</span>
 
-						<a class="txt2" href="#">
+						<a class="txt2" href="cadastro.php">
 							Cadastre-se
 						</a>
 					</div>
